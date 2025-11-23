@@ -1,0 +1,7 @@
+{
+  "name": "MotoSound GP",
+  "description": "Real-time Big Bike engine sound simulator based on GPS speed.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
